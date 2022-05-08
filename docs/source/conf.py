@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'discordpy-replit-heroku'
+project = 'telegrambot for ecclesia'
 copyright = '2020, johndo3'
 author = 'johndo3'
 
